@@ -3,7 +3,7 @@ package runtime
 import (
 	"github.com/bsm/redislock"
 
-	"github.com/go-admin-team/go-admin-core/storage"
+	"github.com/nicelizhi/go-admin-core/storage"
 )
 
 // NewLocker 创建对应上下文分布式锁

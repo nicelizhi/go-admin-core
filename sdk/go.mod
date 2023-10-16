@@ -1,4 +1,4 @@
-module github.com/go-admin-team/go-admin-core/sdk
+module github.com/nicelizhi/go-admin-core/sdk
 
 go 1.18
 
@@ -8,8 +8,8 @@ require (
 	github.com/casbin/casbin/v2 v2.54.0
 	github.com/chanxuehong/wechat v0.0.0-20201110083048-0180211b69fd
 	github.com/gin-gonic/gin v1.7.7
-	github.com/go-admin-team/go-admin-core v1.3.12-0.20221121065133-27b7dbe27a8f
-	github.com/go-admin-team/go-admin-core/plugins/logger/zap v0.0.0-20210610020726-2db73adb505d
+	github.com/nicelizhi/go-admin-core v1.3.12-0.20221121065133-27b7dbe27a8f
+	github.com/nicelizhi/go-admin-core/plugins/logger/zap v0.0.0-20210610020726-2db73adb505d
 	github.com/go-admin-team/gorm-adapter/v3 v3.2.1-0.20210902112335-4148cb356a24
 	github.com/go-admin-team/redis-watcher/v2 v2.0.0-20221121052608-058cebff72c2
 	github.com/go-admin-team/redisqueue/v2 v2.0.0-20221119141731-97c556b0d5b7
@@ -107,4 +107,4 @@ require (
 	gorm.io/driver/sqlserver v1.4.1 // indirect
 )
 
-//replace github.com/go-admin-team/go-admin-core => ../
+//replace github.com/nicelizhi/go-admin-core => ../

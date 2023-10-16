@@ -5,8 +5,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/go-admin-team/go-admin-core/config/source"
 	"github.com/google/uuid"
+	"github.com/nicelizhi/go-admin-core/config/source"
 )
 
 type memory struct {

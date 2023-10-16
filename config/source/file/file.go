@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/go-admin-team/go-admin-core/config/source"
+	"github.com/nicelizhi/go-admin-core/config/source"
 )
 
 type file struct {

@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/go-admin-team/go-admin-core/storage"
-	"github.com/go-admin-team/go-admin-core/storage/cache"
 	"github.com/mojocn/base64Captcha"
+	"github.com/nicelizhi/go-admin-core/storage"
+	"github.com/nicelizhi/go-admin-core/storage/cache"
 )
 
 var _expiration = 6000

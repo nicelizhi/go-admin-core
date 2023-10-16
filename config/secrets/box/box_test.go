@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/go-admin-team/go-admin-core/config/secrets"
+	"github.com/nicelizhi/go-admin-core/config/secrets"
 	naclbox "golang.org/x/crypto/nacl/box"
 )
 
