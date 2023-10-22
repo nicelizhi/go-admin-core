@@ -1,4 +1,4 @@
-module github.com/go-admin-team/go-admin-core/sdk
+module github.com/nicelizhi/go-admin-core/sdk
 
 go 1.18
 
@@ -9,8 +9,8 @@ require (
 	github.com/casbin/redis-watcher/v2 v2.0.0-20220614104201-0e70bf2be930
 	github.com/chanxuehong/wechat v0.0.0-20201110083048-0180211b69fd
 	github.com/gin-gonic/gin v1.7.3
-	github.com/go-admin-team/go-admin-core v1.3.11
-	github.com/go-admin-team/go-admin-core/plugins/logger/zap v0.0.0-20210610020726-2db73adb505d
+	github.com/nicelizhi/go-admin-core v1.3.11
+	github.com/nicelizhi/go-admin-core/plugins/logger/zap v0.0.0-20210610020726-2db73adb505d
 	github.com/go-admin-team/gorm-adapter/v3 v3.2.1-0.20220308061210-6db7e7891fb9
 	github.com/go-playground/locales v0.13.0
 	github.com/go-playground/universal-translator v0.17.0
@@ -104,6 +104,6 @@ require (
 )
 
 //replace (
-//	github.com/go-admin-team/go-admin-core => ../
-//	github.com/go-admin-team/go-admin-core/plugins/logger/zap => ../plugins/logger/zap
+//	github.com/nicelizhi/go-admin-core => ../
+//	github.com/nicelizhi/go-admin-core/plugins/logger/zap => ../plugins/logger/zap
 //)
