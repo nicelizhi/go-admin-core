@@ -23,8 +23,8 @@ require (
 	github.com/skip2/go-qrcode v0.0.0-20200617195104-da1b6568686e
 	github.com/smartystreets/goconvey v1.6.4
 	github.com/spf13/cast v1.3.1
-	github.com/xuri/excelize/v2 v2.6.1
-	golang.org/x/crypto v0.9.0
+	github.com/xuri/excelize/v2 v2.8.0
+	golang.org/x/crypto v0.12.0
 	google.golang.org/grpc v1.29.1
 	google.golang.org/protobuf v1.30.0
 	gorm.io/driver/mysql v1.4.4
@@ -77,13 +77,13 @@ require (
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
 	github.com/ugorji/go/codec v1.2.11 // indirect
 	github.com/urfave/cli v1.20.0 // indirect
-	github.com/xuri/efp v0.0.0-20220603152613-6918739fd470 // indirect
-	github.com/xuri/nfp v0.0.0-20220409054826-5e722a1d9e22 // indirect
+	github.com/xuri/efp v0.0.0-20230802181842-ad255f2331ca // indirect
+	github.com/xuri/nfp v0.0.0-20230819163627-dc951e3ffe1a // indirect
 	golang.org/x/arch v0.3.0 // indirect
-	golang.org/x/image v0.5.0 // indirect
-	golang.org/x/net v0.10.0 // indirect
-	golang.org/x/sys v0.8.0 // indirect
-	golang.org/x/text v0.9.0 // indirect
+	golang.org/x/image v0.11.0 // indirect
+	golang.org/x/net v0.14.0 // indirect
+	golang.org/x/sys v0.11.0 // indirect
+	golang.org/x/text v0.12.0 // indirect
 	golang.org/x/tools v0.6.0 // indirect
 	google.golang.org/genproto v0.0.0-20200526211855-cb27e3aa2013 // indirect
 	gopkg.in/AlecAivazis/survey.v1 v1.8.5 // indirect
