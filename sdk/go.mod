@@ -20,7 +20,6 @@ require (
 	github.com/gorilla/websocket v1.4.2
 	github.com/mojocn/base64Captcha v1.3.1
 	github.com/nicelizhi/go-admin-core v1.6.0
-	github.com/nicelizhi/go-admin-core/plugins/logger/zap v0.0.0-20231016040645-454049fbee93
 	github.com/nsqio/go-nsq v1.0.8
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/shamsher31/goimgext v1.0.0
@@ -88,13 +87,9 @@ require (
 	github.com/tsuyoshiwada/go-gitcmd v0.0.0-20180205145712-5f1f5f9475df // indirect
 	github.com/ugorji/go/codec v1.1.7 // indirect
 	github.com/urfave/cli v1.20.0 // indirect
-	go.uber.org/atomic v1.6.0 // indirect
-	go.uber.org/multierr v1.5.0 // indirect
-	go.uber.org/zap v1.13.0 // indirect
-	golang.org/x/image v0.0.0-20220413100746-70e8d0d3baa9 // indirect
-	golang.org/x/lint v0.0.0-20190930215403-16217165b5de // indirect
+	golang.org/x/image v0.5.0 // indirect
 	golang.org/x/sys v0.0.0-20220728004956-3c1f35247d10 // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/text v0.7.0 // indirect
 	golang.org/x/tools v0.1.12 // indirect
 	google.golang.org/protobuf v1.28.0 // indirect
 	gopkg.in/AlecAivazis/survey.v1 v1.8.5 // indirect
