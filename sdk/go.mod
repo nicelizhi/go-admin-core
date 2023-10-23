@@ -19,7 +19,7 @@ require (
 	github.com/google/uuid v1.3.0
 	github.com/gorilla/websocket v1.4.2
 	github.com/mojocn/base64Captcha v1.3.1
-	github.com/nicelizhi/go-admin-core v1.5.3
+	github.com/nicelizhi/go-admin-core v1.6.0
 	github.com/nicelizhi/go-admin-core/plugins/logger/zap v0.0.0-20231016040645-454049fbee93
 	github.com/nsqio/go-nsq v1.0.8
 	github.com/robfig/cron/v3 v3.0.1
@@ -44,8 +44,6 @@ require (
 	github.com/ghodss/yaml v1.0.0 // indirect
 	github.com/gin-contrib/sse v0.1.0 // indirect
 	github.com/git-chglog/git-chglog v0.0.0-20190611050339-63a4e637021f // indirect
-	github.com/go-admin-team/go-admin-core v1.5.1 // indirect
-	github.com/go-redis/redis/v7 v7.4.0 // indirect
 	github.com/go-sql-driver/mysql v1.6.0 // indirect
 	github.com/golang-sql/civil v0.0.0-20220223132316-b832511892a9 // indirect
 	github.com/golang-sql/sqlexp v0.1.0 // indirect
@@ -85,7 +83,6 @@ require (
 	github.com/prometheus/client_model v0.2.0 // indirect
 	github.com/prometheus/common v0.26.0 // indirect
 	github.com/prometheus/procfs v0.6.0 // indirect
-	github.com/robinjoseph08/redisqueue/v2 v2.1.0 // indirect
 	github.com/smartystreets/assertions v0.0.0-20180927180507-b2de0cb4f26d // indirect
 	github.com/spf13/cast v1.3.1 // indirect
 	github.com/tsuyoshiwada/go-gitcmd v0.0.0-20180205145712-5f1f5f9475df // indirect
