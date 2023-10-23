@@ -10,6 +10,8 @@ type Application struct {
 	Mode          string
 	DemoMsg       string
 	EnableDP      bool
+	Locale        string
+	TimeZone      string
 }
 
 var ApplicationConfig = new(Application)
