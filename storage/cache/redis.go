@@ -2,8 +2,9 @@ package cache
 
 import (
 	"context"
-	"github.com/go-redis/redis/v9"
 	"time"
+
+	"github.com/go-redis/redis/v9"
 )
 
 // NewRedis redis模式
@@ -26,7 +27,7 @@ type Redis struct {
 	client *redis.Client
 }
 
-func (*Redis) String() string {
+func (r *Redis) String() string {
 	return "redis"
 }
 
