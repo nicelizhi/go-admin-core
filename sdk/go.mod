@@ -8,7 +8,7 @@ require (
 	github.com/casbin/casbin/v2 v2.54.0
 	github.com/chanxuehong/wechat v0.0.0-20201110083048-0180211b69fd
 	github.com/gin-gonic/gin v1.9.1
-	github.com/go-admin-team/gorm-adapter/v3 v3.2.1-0.20210902112335-4148cb356a24
+	github.com/nicelizhi/gorm-adapter/v3 v3.20.1
 	github.com/go-admin-team/redis-watcher/v2 v2.0.0-20221121052608-058cebff72c2
 	github.com/go-admin-team/redisqueue/v2 v2.0.0
 	github.com/go-playground/locales v0.14.1

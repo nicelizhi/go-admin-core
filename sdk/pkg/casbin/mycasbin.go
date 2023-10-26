@@ -13,7 +13,7 @@ import (
 	"github.com/nicelizhi/go-admin-core/sdk/config"
 	"gorm.io/gorm"
 
-	gormAdapter "github.com/go-admin-team/gorm-adapter/v3"
+	gormAdapter "github.com/nicelizhi/gorm-adapter/v3"
 )
 
 // Initialize the model from a string.
