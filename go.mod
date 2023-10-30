@@ -3,7 +3,7 @@ module github.com/nicelizhi/go-admin-core
 go 1.18
 
 require (
-	github.com/BurntSushi/toml v0.3.1
+	github.com/BurntSushi/toml v1.3.2
 	github.com/bitly/go-simplejson v0.5.0
 	github.com/bsm/redislock v0.9.4
 	github.com/fsnotify/fsnotify v1.4.9
